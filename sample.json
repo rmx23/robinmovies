@@ -1,0 +1,55 @@
+{
+  "id": 1036,
+  "url": "http://www.tvmaze.com/shows/1036/robin-hood",
+  "name": "Robin Hood",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Drama",
+    "Action",
+    "Adventure"
+  ],
+  "status": "Ended",
+  "runtime": 60,
+  "premiered": "2006-10-07",
+  "officialSite": "http://www.bbc.co.uk/programmes/b006m8g7",
+  "schedule": {
+    "time": "18:25",
+    "days": [
+      "Saturday"
+    ]
+  },
+  "rating": {
+    "average": 6.8
+  },
+  "weight": 98,
+  "network": {
+    "id": 12,
+    "name": "BBC One",
+    "country": {
+      "name": "United Kingdom",
+      "code": "GB",
+      "timezone": "Europe/London"
+    }
+  },
+  "webChannel": null,
+  "externals": {
+    "tvrage": 10436,
+    "thetvdb": 79479,
+    "imdb": "tt0787985"
+  },
+  "image": {
+    "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/16798.jpg",
+    "original": "http://static.tvmaze.com/uploads/images/original_untouched/6/16798.jpg"
+  },
+  "summary": "<p>Drama series which gives a contemporary feel to the classic Robin Hood legend, focusing on Robin Hood's fight against the evil and corrupt Sheriff of Nottingham.</p>",
+  "updated": 1530904955,
+  "_links": {
+    "self": {
+      "href": "http://api.tvmaze.com/shows/1036"
+    },
+    "previousepisode": {
+      "href": "http://api.tvmaze.com/episodes/100930"
+    }
+  }
+}
